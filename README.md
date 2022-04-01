@@ -5,6 +5,10 @@ To run the program, type:
 python main.py
 ```
 
+
+![img](https://user-images.githubusercontent.com/55341412/161189144-b550650f-0dd5-4dce-ab20-40361a21bef3.jpg)
+
+
 **Contributors: Yongjun You, Jeongbin Han **
 
  It contains
