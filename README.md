@@ -18,3 +18,4 @@ python main.py
 4. Game GUI
 
 For a reference, Dataset from https://gomocup.org/results.
+detail on https://blog.naver.com/dbys34/222743069828
